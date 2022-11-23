@@ -21,5 +21,7 @@ public class GItTest {
 
         System.out.println("hot fix");
         System.out.println("maser test");
+
+        System.out.println("test hot-fix");
     }
 }
