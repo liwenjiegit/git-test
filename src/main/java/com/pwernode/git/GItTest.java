@@ -18,5 +18,7 @@ public class GItTest {
 
         System.out.println("my git1");
         System.out.println("my git2");
+
+        System.out.println("hot fix");
     }
 }
