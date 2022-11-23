@@ -20,5 +20,6 @@ public class GItTest {
         System.out.println("my git2");
 
         System.out.println("hot fix");
+        System.out.println("maser test");
     }
 }
